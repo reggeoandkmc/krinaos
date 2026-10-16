@@ -1,0 +1,2 @@
+# krinaos
+KirusOS 
